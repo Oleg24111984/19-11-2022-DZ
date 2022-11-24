@@ -1,0 +1,7 @@
+ul {
+    list-style:none
+}
+
+.poetry::before {
+    content: "1 -"
+}
